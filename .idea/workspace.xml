@@ -1,13 +1,122 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="06be6406-39da-48e0-9370-1864c37bc6d2" name="Default Changelist" comment="" />
+    <list default="true" id="06be6406-39da-48e0-9370-1864c37bc6d2" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/UCF/B/1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/UCF/B/10.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/UCF/B/10dots.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/UCF/B/11.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/UCF/B/11dots.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/UCF/B/12.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/UCF/B/12dots.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/UCF/B/13.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/UCF/B/13dots.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/UCF/B/14.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/UCF/B/14dots.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/UCF/B/15.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/UCF/B/15dots.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/UCF/B/16.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/UCF/B/16dots.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/UCF/B/17.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/UCF/B/17dots.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/UCF/B/18.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/UCF/B/18dots.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/UCF/B/19.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/UCF/B/19dots.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/UCF/B/1dots.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/UCF/B/2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/UCF/B/20.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/UCF/B/20dots.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/UCF/B/21.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/UCF/B/21dots.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/UCF/B/22.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/UCF/B/22dots.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/UCF/B/23.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/UCF/B/23dots.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/UCF/B/24.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/UCF/B/24dots.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/UCF/B/25.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/UCF/B/25dots.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/UCF/B/26.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/UCF/B/26dots.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/UCF/B/27.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/UCF/B/27dots.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/UCF/B/28.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/UCF/B/28dots.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/UCF/B/29.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/UCF/B/29dots.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/UCF/B/2dots.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/UCF/B/3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/UCF/B/30.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/UCF/B/30dots.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/UCF/B/31.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/UCF/B/31dots.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/UCF/B/32.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/UCF/B/32dots.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/UCF/B/33.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/UCF/B/33dots.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/UCF/B/34.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/UCF/B/34dots.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/UCF/B/35.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/UCF/B/35dots.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/UCF/B/36.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/UCF/B/36dots.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/UCF/B/37.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/UCF/B/37dots.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/UCF/B/38.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/UCF/B/38dots.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/UCF/B/39.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/UCF/B/39dots.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/UCF/B/3dots.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/UCF/B/4.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/UCF/B/40.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/UCF/B/40dots.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/UCF/B/41.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/UCF/B/41dots.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/UCF/B/42.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/UCF/B/42dots.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/UCF/B/43.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/UCF/B/43dots.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/UCF/B/44.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/UCF/B/44dots.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/UCF/B/45.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/UCF/B/45dots.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/UCF/B/46.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/UCF/B/46dots.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/UCF/B/47.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/UCF/B/47dots.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/UCF/B/48.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/UCF/B/48dots.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/UCF/B/49.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/UCF/B/49dots.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/UCF/B/4dots.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/UCF/B/5.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/UCF/B/50.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/UCF/B/50dots.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/UCF/B/5dots.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/UCF/B/6.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/UCF/B/6dots.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/UCF/B/7.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/UCF/B/7dots.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/UCF/B/8.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/UCF/B/8dots.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/UCF/B/9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/UCF/B/9dots.npy" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/UCF/B/blur.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/data/UCF/B/geometric_blur.py" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1ZUiC96xZRJsUNL1KmqVp7aWZwH" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -15,6 +124,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
@@ -41,7 +151,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584899942832</updated>
-      <workItem from="1584899952000" duration="1024000" />
+      <workItem from="1584899952000" duration="1687000" />
     </task>
     <servers />
   </component>
